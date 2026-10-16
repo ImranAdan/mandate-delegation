@@ -27,7 +27,7 @@ that judge it.
 ## Layout
 
 ```
-repositories/<repository-name>.yaml   one governed repository per file
+repositories/<repository-name>.toml   one governed repository per file
 ```
 
 Each file follows the delegation contract:
