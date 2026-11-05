@@ -36,4 +36,5 @@ https://project-mandate.atlassian.net/wiki/spaces/KAN/pages/131135
 ## Status
 
 `mode: shadow`: Mandate records decisions and receipts but merges nothing.
+`tasks-api.toml` says the same with `dry_run = true`.
 Enforcement is a separate, later owner decision.
