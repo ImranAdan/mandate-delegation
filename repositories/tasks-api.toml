@@ -1,7 +1,7 @@
 # Delegation for ImranAdan/tasks-api. Only the owner changes this file.
 repository = "ImranAdan/tasks-api"
 dry_run = true
-judge_model = "qwen2.5-coder:3b"
+judge_model = "claude-opus-5-5"
 judge_threshold = 0.8
 intent_repo = "ImranAdan/mandate-intent"
 
